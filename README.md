@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sylvia
+- 👋 Hi, I’m Sylvia
 - 👀 I’m interested in technology-driven solutions, system design, data analysis, and creative problem-solving. I’m also passionate about designing intuitive and visually appealing interfaces.
 - 🌱 I’m currently enrolled in an Information Technology program at York University
 - 📫 How to reach me: linkedin.com/in/sylvia-ezealor
